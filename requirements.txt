@@ -1,0 +1,2 @@
+psutil==5.9.0       # For monitoring CPU/memory usage
+Flask==2.0.0        # For the sample web application
